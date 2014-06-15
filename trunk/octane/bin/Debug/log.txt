@@ -1,0 +1,1496 @@
+
+Log Entry : 12:07:50 AM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 12:10:28 AM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 12:37:09 AM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 12:40:50 AM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 12:40:50 AM Thursday, May 01, 2014
+  :
+  :Index and length must refer to a location within the string.
+Parameter name: length
+-------------------------------
+
+Log Entry : 12:40:50 AM Thursday, May 01, 2014
+  :
+  :Index and length must refer to a location within the string.
+Parameter name: length
+-------------------------------
+
+Log Entry : 12:41:48 AM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 12:42:06 AM Thursday, May 01, 2014
+  :
+  :Index and length must refer to a location within the string.
+Parameter name: length
+-------------------------------
+
+Log Entry : 12:44:34 AM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 12:52:35 AM Thursday, May 01, 2014
+  :
+  :Packet was not selected
+-------------------------------
+
+Log Entry : 12:52:39 AM Thursday, May 01, 2014
+  :
+  :Packet was not selected
+-------------------------------
+
+Log Entry : 12:53:26 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:53:26 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:53:53 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:53:53 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:54:16 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:54:16 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 1:01:40 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 1:01:40 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 1:02:11 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 1:02:11 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 1:02:26 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 1:02:26 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 1:02:34 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus - Background Tester Worker Busy
+-------------------------------
+
+Log Entry : 1:02:34 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 1:02:40 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 1:02:40 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 11:01:36 PM Wednesday, April 30, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 11:03:53 PM Wednesday, April 30, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 11:04:48 PM Wednesday, April 30, 2014
+  :
+  :Status - Filter Loaded: 2010 Toyota Matrix
+-------------------------------
+
+Log Entry : 11:06:17 PM Wednesday, April 30, 2014
+  :
+  :Status - Filter Loaded: 2010 Toyota Matrix
+-------------------------------
+
+Log Entry : 11:06:59 PM Wednesday, April 30, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 11:09:49 PM Wednesday, April 30, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 11:13:11 PM Wednesday, April 30, 2014
+  :
+  :Status - Filter Loaded: Toyota Test - Miller Paper
+-------------------------------
+
+Log Entry : 11:18:20 PM Wednesday, April 30, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 11:45:42 AM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 11:46:15 AM Thursday, May 01, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 11:46:30 AM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 11:46:37 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 11:46:37 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 11:48:05 AM Thursday, May 01, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 11:48:08 AM Thursday, May 01, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 11:48:10 AM Thursday, May 01, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 11:48:11 AM Thursday, May 01, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 11:48:29 AM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 11:49:53 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 11:49:53 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 11:50:23 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 11:50:23 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 11:50:46 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 11:50:46 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 11:50:58 AM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 11:50:58 AM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:23:15 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:23:15 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:23:32 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:23:32 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:30:04 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:30:04 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:32:02 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:32:02 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:32:29 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:32:29 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:34:23 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:34:23 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:36:40 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:36:40 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:36:47 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:36:47 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:40:30 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:40:30 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 12:41:19 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 12:41:19 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 1:23:05 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 1:23:05 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 1:23:27 PM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 1:23:41 PM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: GMC - Oakland Paper
+-------------------------------
+
+Log Entry : 1:23:43 PM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: GMC - Oakland Paper
+-------------------------------
+
+Log Entry : 1:23:47 PM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: 2010 Toyota Matrix
+-------------------------------
+
+Log Entry : 1:23:51 PM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: GM VIN Sequences
+-------------------------------
+
+Log Entry : 1:23:55 PM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 1:23:59 PM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: GM Standard
+-------------------------------
+
+Log Entry : 1:26:44 PM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: GM Standard
+-------------------------------
+
+Log Entry : 1:38:58 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 1:38:58 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 1:39:50 PM Thursday, May 01, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 1:39:50 PM Thursday, May 01, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 1:55:35 PM Thursday, May 01, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.IdentifyPackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\IdentifyPackets.cs:line 108
+-------------------------------
+
+Log Entry : 1:56:50 PM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 9:20:46 PM Thursday, May 01, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 9:37:02 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 9:37:04 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 9:37:09 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 9:37:13 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: 2010 Toyota Matrix
+-------------------------------
+
+Log Entry : 9:37:23 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:37:26 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: 2010 Toyota Matrix
+-------------------------------
+
+Log Entry : 9:37:31 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:37:34 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: GMC - Oakland Paper
+-------------------------------
+
+Log Entry : 9:37:37 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 9:37:43 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: GMC - Oakland Paper
+-------------------------------
+
+Log Entry : 9:37:46 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:37:49 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: GM VIN Sequences
+-------------------------------
+
+Log Entry : 9:37:52 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: 2010 Toyota Matrix
+-------------------------------
+
+Log Entry : 9:37:55 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:37:58 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: GM Radio Packets
+-------------------------------
+
+Log Entry : 9:38:05 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: GM Standard
+-------------------------------
+
+Log Entry : 9:38:08 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 9:38:11 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: 2010 Toyota Matrix
+-------------------------------
+
+Log Entry : 11:50:26 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: 2010 Toyota Matrix
+-------------------------------
+
+Log Entry : 11:50:32 PM Thursday, May 08, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 8:01:55 PM Saturday, May 10, 2014
+  :
+  :Status - Filter Loaded: GMC - Oakland Paper
+-------------------------------
+
+Log Entry : 8:02:48 PM Saturday, May 10, 2014
+  :
+  :Status - Filter Loaded: Car Manufacturer Standard
+-------------------------------
+
+Log Entry : 8:17:33 PM Saturday, May 10, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 11:37:58 PM Saturday, May 10, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 11:38:07 PM Saturday, May 10, 2014
+  :
+  :Status - Filter Loaded: Test Car 4
+-------------------------------
+
+Log Entry : 11:38:15 PM Saturday, May 10, 2014
+  :
+  :Status - Filter Loaded: Test Car 4
+-------------------------------
+
+Log Entry : 11:38:16 PM Saturday, May 10, 2014
+  :
+  :Status - Filter Loaded: Test Car 4
+-------------------------------
+
+Log Entry : 11:38:23 PM Saturday, May 10, 2014
+  :
+  :Status - Filter Loaded: Car Manufacturer Standard
+-------------------------------
+
+Log Entry : 8:52:03 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 8:55:09 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 8:59:08 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:00:52 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:01:52 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:03:04 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:20:04 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:22:18 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:25:03 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:25:26 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:31:30 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:31:39 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:32:50 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: 2010 Toyota Matrix
+-------------------------------
+
+Log Entry : 9:33:02 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: GM VIN Sequences
+-------------------------------
+
+Log Entry : 9:33:54 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:35:16 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:36:12 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:36:23 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 9:38:41 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: GM Radio Packets
+-------------------------------
+
+Log Entry : 9:39:37 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 9:40:51 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Test Car 1
+-------------------------------
+
+Log Entry : 9:41:18 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: GM Standard
+-------------------------------
+
+Log Entry : 10:09:55 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:10:03 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:12:14 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:12:23 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:15:27 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:15:36 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:16:29 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:19:30 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:19:44 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:22:22 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:22:59 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:34:25 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:39:23 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: GM Standard
+-------------------------------
+
+Log Entry : 10:40:04 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:40:23 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:41:06 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:41:19 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:52:34 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:52:48 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 11:00:57 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 11:25:54 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 11:26:30 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 11:34:11 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 11:34:26 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 11:39:28 PM Sunday, May 11, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 12:18:38 AM Monday, May 12, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 12:19:23 AM Monday, May 12, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 12:20:29 AM Monday, May 12, 2014
+  :
+  :Status - Filter Loaded: 2010 Toyota Matrix
+-------------------------------
+
+Log Entry : 12:53:21 AM Monday, May 12, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 12:54:25 AM Monday, May 12, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 79
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 12:54:34 AM Monday, May 12, 2014
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 79
+   at OpenCarTestbed.Windows.RenamePackets.findPacket(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 89
+   at OpenCarTestbed.Windows.RenamePackets.btnChange_Click(Object sender, EventArgs e) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 137
+-------------------------------
+
+Log Entry : 12:55:36 AM Monday, May 12, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 79
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 1:16:24 AM Monday, May 12, 2014
+  :
+  :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 1:16:24 AM Monday, May 12, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 79
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 1:16:33 AM Monday, May 12, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 1:16:48 AM Monday, May 12, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 79
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 1:17:36 AM Monday, May 12, 2014
+  :
+  :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 1:27:36 AM Monday, May 12, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 1:27:59 AM Monday, May 12, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 1:28:10 AM Monday, May 12, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 79
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 1:34:38 AM Monday, May 12, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 1:34:44 AM Monday, May 12, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 84
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 1:35:45 AM Monday, May 12, 2014
+  :
+  :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 1:38:49 AM Monday, May 12, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 1:38:58 AM Monday, May 12, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 83
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 12:44:57 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 12:44:59 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 12:45:00 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 12:45:00 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 12:45:00 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 12:45:01 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 12:47:37 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 12:58:32 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 1:03:37 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 1:07:29 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 1:29:59 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 1:34:57 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 1:37:48 AM Sunday, May 18, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 11:15:00 PM Wednesday, May 21, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 11:15:12 PM Wednesday, May 21, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 11:18:15 PM Wednesday, May 21, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 11:20:20 PM Wednesday, May 21, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 10:27:13 PM Thursday, May 22, 2014
+  :
+  :Status - Filter Loaded: Car XML Extensions Test
+-------------------------------
+
+Log Entry : 12:59:04 AM Friday, May 23, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 83
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 7:35:43 AM Friday, May 23, 2014
+  :
+  :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 7:35:43 AM Friday, May 23, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 83
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 7:35:56 AM Friday, May 23, 2014
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 83
+   at OpenCarTestbed.Windows.RenamePackets.btnChange_Click(Object sender, EventArgs e) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 331
+-------------------------------
+
+Log Entry : 7:37:24 AM Friday, May 23, 2014
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 83
+   at OpenCarTestbed.Windows.RenamePackets.btnChange_Click(Object sender, EventArgs e) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 331
+-------------------------------
+
+Log Entry : 7:44:13 AM Friday, May 23, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 83
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 7:45:49 AM Friday, May 23, 2014
+  :
+  :problem using regular expressionSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenCarTestbed.Windows.RenamePackets.findCarName(String id, String message) in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 83
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 63
+-------------------------------
+
+Log Entry : 7:49:37 AM Friday, May 23, 2014
+  :
+  :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 9:33:18 PM Friday, May 23, 2014
+  :
+  :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 9:42:28 PM Friday, May 23, 2014
+  :
+  :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 9:53:32 PM Friday, May 23, 2014
+  :
+  :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 9:57:09 PM Friday, May 23, 2014
+  :
+  :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 9:58:35 PM Friday, May 23, 2014
+  :
+  :Object reference not set to an instance of an object.
+-------------------------------
+
+Log Entry : 10:17:45 PM Friday, May 23, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.IdentifyPackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\IdentifyPackets.cs:line 107
+-------------------------------
+
+Log Entry : 10:18:12 PM Friday, May 23, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 58
+-------------------------------
+
+Log Entry : 9:28:25 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 9:30:40 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 9:31:54 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 9:34:55 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 9:39:01 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 9:40:37 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 9:48:18 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 9:49:14 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 9:49:43 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 9:58:00 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 10:02:19 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 10:05:09 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 10:10:26 PM Thursday, May 29, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 1:39:10 AM Friday, May 30, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 1:51:01 AM Friday, May 30, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.IdentifyPackets.LoadListTransmit()
+-------------------------------
+
+Log Entry : 1:51:38 AM Friday, May 30, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit()
+-------------------------------
+
+Log Entry : 1:52:17 AM Friday, May 30, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit()
+-------------------------------
+
+Log Entry : 2:10:46 AM Friday, May 30, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.IdentifyPackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\IdentifyPackets.cs:line 107
+-------------------------------
+
+Log Entry : 2:11:12 AM Friday, May 30, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 58
+-------------------------------
+
+Log Entry : 2:11:38 AM Friday, May 30, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 58
+-------------------------------
+
+Log Entry : 2:14:20 AM Friday, May 30, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.IdentifyPackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\IdentifyPackets.cs:line 107
+-------------------------------
+
+Log Entry : 2:14:44 AM Friday, May 30, 2014
+  :
+  :problem using regular expressionSystem.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at OpenCarTestbed.Windows.RenamePackets.LoadListTransmit() in c:\OCTANE1\octane\trunk\octane\Windows\RenamePackets.cs:line 58
+-------------------------------
+
+Log Entry : 2:16:28 AM Friday, May 30, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 2:17:00 AM Friday, May 30, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 2:17:30 AM Friday, May 30, 2014
+  :
+  :Status - Filter Loaded: Test Car 0
+-------------------------------
+
+Log Entry : 11:28:39 PM Sunday, June 08, 2014
+  :
+  :Status - Filter Loaded: Test Car 4
+-------------------------------
+
+Log Entry : 8:42:11 PM Thursday, June 12, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:51:44 PM Thursday, June 12, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:51:47 PM Thursday, June 12, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:51:49 PM Thursday, June 12, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:51:52 PM Thursday, June 12, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:53:30 PM Thursday, June 12, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:54:27 PM Thursday, June 12, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 9:01:22 PM Thursday, June 12, 2014
+  :
+  :CAN - Monitor Bus On
+-------------------------------
+
+Log Entry : 9:01:22 PM Thursday, June 12, 2014
+  :
+  :CAN - Tester Present Transmit Message: 
+-------------------------------
+
+Log Entry : 9:01:55 PM Thursday, June 12, 2014
+  :
+  :Packet was not selected
+-------------------------------
+
+Log Entry : 3:39:13 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 3:39:14 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 3:39:14 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 3:39:15 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 3:39:15 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 3:39:15 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 3:39:15 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:07:17 PM Saturday, June 14, 2014
+  :
+  :Status - Filter Loaded: Test Car
+-------------------------------
+
+Log Entry : 8:30:43 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:46 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:47 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:47 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:48 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:48 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:49 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:50 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:50 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:52 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:53 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:54 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:55 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:57 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:30:58 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:31:23 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:31:27 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:31:30 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:31:43 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:31:46 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:35:47 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------
+
+Log Entry : 8:35:50 PM Saturday, June 14, 2014
+  :
+  :CAN Transmit Message: canOK
+-------------------------------

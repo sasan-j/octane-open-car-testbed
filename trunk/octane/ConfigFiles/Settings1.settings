@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OpenCarTestbed.ConfigFiles" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="filterURI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\OCTANE1\octane\trunk\octane\ConfigFiles\Filter-Long.xml</Value>
+    </Setting>
+    <Setting Name="skipGuidedBusControl" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
