@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{70654F36-3B8A-4401-9FED-173C57067B5C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OpenCarTestbed</RootNamespace>
+    <AssemblyName>OCTANE</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\ceveret3\Desktop\OctaneInstall\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>31B391FD5F4A9F0B48E03F42E78898B21BED4D89</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>OpenCarTestbed_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>oct.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>OpenCarTestbed.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="canlibCLSNET">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Kvaser\Canlib\dotnet\win32\fw40\canlibCLSNET.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusLayer\IntrepidCanBus.cs" />
+    <Compile Include="BusLayer\ECOMCanBus.cs" />
+    <Compile Include="BusLayer\KvaserCanBus.cs" />
+    <Compile Include="BusLayer\Lib\icsNeoClass.cs" />
+    <Compile Include="Common\editableListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Common\ErrorLog.cs" />
+    <Compile Include="Common\FileLog.cs" />
+    <Compile Include="Common\InputTests.cs" />
+    <Compile Include="Common\BusData.cs" />
+    <Compile Include="BusLayer\GenericCanBus.cs" />
+    <Compile Include="BusLayer\GenericFlexRayBus.cs" />
+    <Compile Include="BusLayer\GenericLinBus.cs" />
+    <Compile Include="Common\ListViewExtensions.cs" />
+    <Compile Include="Common\RowValue.cs" />
+    <Compile Include="Common\XML-Interface.cs" />
+    <Compile Include="BusLayer\Lib\ECOMLibrary.cs" />
+    <Compile Include="ConfigFiles\Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings1.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\AddXmlDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\AddXmlDocument.Designer.cs">
+      <DependentUpon>AddXmlDocument.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\BusControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\BusControl.Designer.cs">
+      <DependentUpon>BusControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\BusMonitor-Column.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\BusMonitor-Column.Designer.cs">
+      <DependentUpon>BusMonitor-Column.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\BusMonitorCompact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\BusMonitorCompact.Designer.cs">
+      <DependentUpon>BusMonitorCompact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\BusSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\BusSettings.Designer.cs">
+      <DependentUpon>BusSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Configuration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Configuration.Designer.cs">
+      <DependentUpon>Configuration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\GuidedBusControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\GuidedBusControl.Designer.cs">
+      <DependentUpon>GuidedBusControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\IdentifyPackets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\IdentifyPackets.Designer.cs">
+      <DependentUpon>IdentifyPackets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\LogWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\LogWindow.Designer.cs">
+      <DependentUpon>LogWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\RenamePackets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\RenamePackets.Designer.cs">
+      <DependentUpon>RenamePackets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\TestGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\TestGrid.Designer.cs">
+      <DependentUpon>TestGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\XMLEditAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\XMLEditAll.Designer.cs">
+      <DependentUpon>XMLEditAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\XMLEditECU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\XMLEditECU.Designer.cs">
+      <DependentUpon>XMLEditECU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\XMLEditMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\XMLEditMessage.Designer.cs">
+      <DependentUpon>XMLEditMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\CustomTransmit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\CustomTransmit.Designer.cs">
+      <DependentUpon>CustomTransmit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\TransmitPackets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\TransmitPackets.Designer.cs">
+      <DependentUpon>TransmitPackets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\CommonUtils.cs" />
+    <Compile Include="Windows\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Windows\XMLEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\XMLEdit.Designer.cs">
+      <DependentUpon>XMLEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\XMLEditPackets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\XMLEditPackets.Designer.cs">
+      <DependentUpon>XMLEditPackets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\XMLEditVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\XMLEditVehicle.Designer.cs">
+      <DependentUpon>XMLEditVehicle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Windows\AddXmlDocument.resx">
+      <DependentUpon>AddXmlDocument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\BusControl.resx">
+      <DependentUpon>BusControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\BusMonitor-Column.resx">
+      <DependentUpon>BusMonitor-Column.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\BusMonitorCompact.resx">
+      <DependentUpon>BusMonitorCompact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\BusSettings.resx">
+      <DependentUpon>BusSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Configuration.resx">
+      <DependentUpon>Configuration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\GuidedBusControl.resx">
+      <DependentUpon>GuidedBusControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\IdentifyPackets.resx">
+      <DependentUpon>IdentifyPackets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\LogWindow.resx">
+      <DependentUpon>LogWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\RenamePackets.resx">
+      <DependentUpon>RenamePackets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\TestGrid.resx">
+      <DependentUpon>TestGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\XMLEditAll.resx">
+      <DependentUpon>XMLEditAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\XMLEditECU.resx">
+      <DependentUpon>XMLEditECU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\XMLEditMessage.resx">
+      <DependentUpon>XMLEditMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\CustomTransmit.resx">
+      <DependentUpon>CustomTransmit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\TransmitPackets.resx">
+      <DependentUpon>TransmitPackets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Windows\XMLEdit.resx">
+      <DependentUpon>XMLEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\XMLEditPackets.resx">
+      <DependentUpon>XMLEditPackets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\XMLEditVehicle.resx">
+      <DependentUpon>XMLEditVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="canlib32.lib" />
+    <None Include="ClassDiagram1.cd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ConfigFiles\Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="OpenCarTestbed_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="oct.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="Microsoft.VisualBasic.PowerPacks.Vs">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

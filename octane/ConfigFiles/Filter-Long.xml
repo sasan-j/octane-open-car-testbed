@@ -1,0 +1,1208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <CarType>
+    <CarName>GMC - Oakland Paper</CarName>
+    <MSG>
+      <Name>Unlock Car</Name>
+      <Message>0403</Message>
+    </MSG>
+    <MSG>
+      <Name>Lock Car</Name>
+      <Message>0401</Message>
+    </MSG>
+    <MSG>
+      <Name>Reote State Car</Name>
+      <Message>040B</Message>
+    </MSG>
+    <MSG>
+      <Name>Car Alarm Honk</Name>
+      <Message>040E</Message>
+    </MSG>
+  </CarType>
+  <CarType>
+    <CarName>Car XML Extensions Test</CarName>
+    <IFTHEN>
+      <Name>If Then Test</Name>
+      <If>
+        <Packet>
+          <Name>my if</Name>
+          <ID>322</ID>
+          <DLC>8</DLC>
+          <Message>3220000000000000</Message>
+        </Packet>
+      </If>
+      <Then>
+        <Packet>
+          <Name>my else</Name>
+          <ID>323</ID>
+          <DLC>8</DLC>
+          <Message>3230000000000000</Message>
+        </Packet>
+      </Then>
+    </IFTHEN>
+    <IFTHEN>
+      <Name>If Then A</Name>
+      <If>
+        <Packet>
+          <Name>Standard Hello 1</Name>
+          <ID>624</ID>
+          <DLC>8</DLC>
+          <Message>0020000000000000</Message>
+        </Packet>
+      </If>
+      <Then>
+        <Packet>
+          <Name>Standard Welcome 1</Name>
+          <ID>626</ID>
+          <DLC>8</DLC>
+          <Message>0066000000000000</Message>
+        </Packet>
+      </Then>
+    </IFTHEN>
+    <Sequence>
+      <Name>My Sequence</Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>My packet</Name>
+        <ID>321</ID>
+        <DLC>8</DLC>
+        <Message>3211000000000000</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>My packet1</Name>
+        <ID>983</ID>
+        <DLC>8</DLC>
+        <Message>9831000000000000</Message>
+      </Packet>
+    </Sequence>
+    <Sequence>
+      <Name>Test Sequence A</Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>Standard Hello 1</Name>
+        <ID>624</ID>
+        <DLC>8</DLC>
+        <Message>0020000000000000</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>Standard Hello 2</Name>
+        <ID>626</ID>
+        <DLC>8</DLC>
+        <Message>0040000000000000</Message>
+      </Packet>
+      <Packet>
+        <Number>3</Number>
+        <Name>Standard Hello 3</Name>
+        <ID>628</ID>
+        <DLC>8</DLC>
+        <Message>0060000000000000</Message>
+      </Packet>
+    </Sequence>
+    <Sequence>
+      <Name>Test Sequence B</Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>Standard Hello 1</Name>
+        <ID>624</ID>
+        <DLC>2</DLC>
+        <Message>0020</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>Standard Hello 2</Name>
+        <ID>624</ID>
+        <DLC>2</DLC>
+        <Message>0020</Message>
+      </Packet>
+      <Packet>
+        <Number>3</Number>
+        <Name>Standard Hello 3</Name>
+        <ID>624</ID>
+        <DLC>2</DLC>
+        <Message>0020</Message>
+      </Packet>
+    </Sequence>
+    <Packet>
+      <Name>Test Packet</Name>
+      <ID>644</ID>
+      <DLC>8</DLC>
+      <Message>0168AAAAAAAAAAAA</Message>
+    </Packet>
+    <Packet>
+      <ID>101</ID>
+      <Name> Test Packet1
+      </Name>
+      <DLC>8</DLC>
+      <Message> 00 00 00 00 00 00 00 00</Message>
+    </Packet>
+  </CarType>
+  <CarType>
+    <CarName>GM VIN Sequences</CarName>
+    <Sequence>
+      <Name>Read VIN</Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>Read VIN - Packet 1</Name>
+        <ID>241</ID>
+        <DLC>3</DLC>
+        <Message>021A90</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>Read VIN - Packet 2</Name>
+        <ID>241</ID>
+        <DLC>3</DLC>
+        <Message>300000</Message>
+      </Packet>
+    </Sequence>
+    <Sequence>
+      <Name>Write VIN -- 0'ed VIN</Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>Write VIN - Packet 1</Name>
+        <ID>241</ID>
+        <DLC>8</DLC>
+        <Message>10133B9000000000</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>Write VIN - Packet 2</Name>
+        <ID>241</ID>
+        <DLC>8</DLC>
+        <Message>2100000000000000</Message>
+      </Packet>
+      <Packet>
+        <Number>3</Number>
+        <Name>Write VIN - Packet 3</Name>
+        <ID>241</ID>
+        <DLC>7</DLC>
+        <Message>22000000000000</Message>
+      </Packet>
+    </Sequence>
+    <Sequence>
+      <Name>Write VIN - Type 1 Write - Sonic VIN 1G1J C5SBXE4 104186 </Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>Write VIN - Packet 1</Name>
+        <ID>241</ID>
+        <DLC>8</DLC>
+        <Message>10133B903147314A</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>Write VIN - Packet 2</Name>
+        <ID>241</ID>
+        <DLC>8</DLC>
+        <Message>2143355342584534</Message>
+      </Packet>
+      <Packet>
+        <Number>3</Number>
+        <Name>Write VIN - Packet 3</Name>
+        <ID>241</ID>
+        <DLC>7</DLC>
+        <Message>22313034313836</Message>
+      </Packet>
+    </Sequence>
+    <Sequence>
+      <Name>Write VIN - Type 2 Write - Sonic VIN 1G1J C5SBXE4 104186 </Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>Write VIN - Packet 1</Name>
+        <ID>247</ID>
+        <DLC>8</DLC>
+        <Message>10133B903147314A</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>Write VIN - Packet 2</Name>
+        <ID>247</ID>
+        <DLC>8</DLC>
+        <Message>2143355342584534</Message>
+      </Packet>
+      <Packet>
+        <Number>3</Number>
+        <Name>Write VIN - Packet 3</Name>
+        <ID>247</ID>
+        <DLC>8</DLC>
+        <Message>22313034313836AA</Message>
+      </Packet>
+    </Sequence>
+    <Packet>
+      <ID>101</ID>
+      <Name>Test 4</Name>
+      <DLC>8</DLC>
+      <Message> 00 00 00 00 00 00 00 00</Message>
+    </Packet>
+  </CarType>
+  <CarType>
+    <CarName>2010 Toyota Matrix</CarName>
+    <Packet>
+      <Name>Lock Doors</Name>
+      <ID>621</ID>
+      <Message>1180030000000000</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Lock Doors 2</Name>
+      <ID>620</ID>
+      <Message>1180030000000000</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Lock Doors 3</Name>
+      <ID>620</ID>
+      <Message>1180000000000000</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Lock Doors 4</Name>
+      <ID>621</ID>
+      <Message>1180000000000000</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <ECU>
+      <ID>100</ID>
+      <Name>Test 100</Name>
+    </ECU>
+    <ECU>
+      <ID>101</ID>
+      <Name>Test 101</Name>
+    </ECU>
+    <MSG>
+      <Message>0000000000000000</Message>
+      <Name>Blank Message</Name>
+    </MSG>
+    <Packet>
+      <ID>621</ID>
+      <Name>test</Name>
+      <DLC>8</DLC>
+      <Message> 11 80 03 00 00 00 00 00</Message>
+    </Packet>
+    <Packet>
+      <ID>100</ID>
+      <Name>test blank</Name>
+      <DLC>8</DLC>
+      <Message> 00 00 00 00 00 00 00 00</Message>
+    </Packet>
+  </CarType>
+  <CarType>
+    <CarName>Car XML Extensions Test</CarName>
+    <IFTHEN>
+      <Name>If Then A</Name>
+      <If>
+        <Packet>
+          <Name>Standard Hello 1</Name>
+          <ID>624</ID>
+          <DLC>8</DLC>
+          <Message>0020000000000000</Message>
+        </Packet>
+      </If>
+      <Then>
+        <Packet>
+          <Name>Standard Welcome 1</Name>
+          <ID>626</ID>
+          <DLC>8</DLC>
+          <Message>0066000000000000</Message>
+        </Packet>
+      </Then>
+    </IFTHEN>
+    <Sequence>
+      <Name>Test Sequence A</Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>Standard Hello 1</Name>
+        <ID>624</ID>
+        <DLC>8</DLC>
+        <Message>0020000000000000</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>Standard Hello 2</Name>
+        <ID>626</ID>
+        <DLC>8</DLC>
+        <Message>0040000000000000</Message>
+      </Packet>
+      <Packet>
+        <Number>3</Number>
+        <Name>Standard Hello 3</Name>
+        <ID>628</ID>
+        <DLC>8</DLC>
+        <Message>0060000000000000</Message>
+      </Packet>
+    </Sequence>
+    <Sequence>
+      <Name>Test Sequence B</Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>Standard Hello 1</Name>
+        <ID>624</ID>
+        <DLC>2</DLC>
+        <Message>0020</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>Standard Hello 2</Name>
+        <ID>624</ID>
+        <DLC>2</DLC>
+        <Message>0020</Message>
+      </Packet>
+      <Packet>
+        <Number>3</Number>
+        <Name>Standard Hello 3</Name>
+        <ID>624</ID>
+        <DLC>2</DLC>
+        <Message>0020</Message>
+      </Packet>
+    </Sequence>
+    <Packet>
+      <Name>Test Packet</Name>
+      <ID>644</ID>
+      <DLC>8</DLC>
+      <Message>0168AAAAAAAAAAAA</Message>
+    </Packet>
+    <Packet>
+      <ID>666</ID>
+      <Name>test66</Name>
+      <DLC>8</DLC>
+      <Message>6600000000000000</Message>
+    </Packet>
+  </CarType>
+  <CarType>
+    <CarName>GM Radio Packets</CarName>
+    <Packet>
+      <Name>Standard Hello 1 - Radio</Name>
+      <ID>624</ID>
+      <DLC>8</DLC>
+      <Message>0020000000000000</Message>
+    </Packet>
+    <Packet>
+      <Name>Standard Hello 2 - Radio</Name>
+      <ID>108E0080</ID>
+      <DLC>6</DLC>
+      <Flag>X</Flag>
+      <Message>0D050A0024C9</Message>
+    </Packet>
+    <Packet>
+      <Name>Standard Hello 3 - Radio</Name>
+      <ID>106D0080</ID>
+      <DLC>2</DLC>
+      <Flag>X</Flag>
+      <Message>0000</Message>
+    </Packet>
+    <Packet>
+      <Name>Standard Hello 4 - Radio</Name>
+      <ID>13FFE080</ID>
+      <DLC>0</DLC>
+      <Flag>X</Flag>
+      <Message>
+      </Message>
+    </Packet>
+    <Packet>
+      <Name>Standard Hello 5 - Radio</Name>
+      <ID>108E0080</ID>
+      <DLC>6</DLC>
+      <Flag>X</Flag>
+      <Message>0D050A0024CA</Message>
+    </Packet>
+    <Packet>
+      <Name>Standard Hello 6 - Radio</Name>
+      <ID>108E0080</ID>
+      <DLC>6</DLC>
+      <Flag>X</Flag>
+      <Message>0D050A0024CB</Message>
+    </Packet>
+    <Packet>
+      <Name>Response to Stop Communication - Radio</Name>
+      <ID>644</ID>
+      <DLC>8</DLC>
+      <Message>0168AAAAAAAAAAAA</Message>
+    </Packet>
+    <ECU>
+      <Name>Standard Hello - ECU 1</Name>
+      <ID>108E0080</ID>
+    </ECU>
+    <Packet>
+      <ID>100</ID>
+      <Name>test123</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+  </CarType>
+  <CarType>
+    <CarName>GM Standard</CarName>
+    <Packet>
+      <Name>Tester Present</Name>
+      <ID>242</ID>
+      <DLC>2</DLC>
+      <Message>013E</Message>
+    </Packet>
+    <Packet>
+      <Name>Tester Present</Name>
+      <ID>242</ID>
+      <DLC>2</DLC>
+      <Message>013E</Message>
+      <Count>1000</Count>
+      <TimeBetween>5000</TimeBetween>
+    </Packet>
+    <Packet>
+      <Name>Tester Present</Name>
+      <ID>101</ID>
+      <DLC>2</DLC>
+      <Message>013E</Message>
+      <Count>1000</Count>
+      <TimeBetween>5000</TimeBetween>
+    </Packet>
+    <Packet>
+      <Name>Security Access - Request Seed</Name>
+      <ID>241</ID>
+      <Message>022701</Message>
+      <DLC>3</DLC>
+    </Packet>
+    <Packet>
+      <Name>Security Access - Positive Response</Name>
+      <ID>241</ID>
+      <Message>042702ccdd</Message>
+      <DLC>5</DLC>
+    </Packet>
+    <Packet>
+      <Name>Disable Normal Communicaitons</Name>
+      <ID>101</ID>
+      <Message>FE0128</Message>
+      <DLC>3</DLC>
+    </Packet>
+    <Packet>
+      <Name>Disable Normal Communicaitons - Denial of Start</Name>
+      <ID>101</ID>
+      <Message>FE0128</Message>
+      <DLC>3</DLC>
+      <Count>1000</Count>
+      <TimeBetween>500</TimeBetween>
+    </Packet>
+    <Packet>
+      <Name>Elevate RPM</Name>
+      <ID>241</ID>
+      <Message>07AE010003000078</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Turn EGR On</Name>
+      <ID>241</ID>
+      <Message>06AE0201008000</Message>
+      <DLC>7</DLC>
+    </Packet>
+    <Packet>
+      <Name>High Voltage Wake-Up on LS-CAN</Name>
+      <ID>100</ID>
+      <Message>
+      </Message>
+      <DLC>0</DLC>
+    </Packet>
+    <Packet>
+      <Name>Wake-Up Gateway ECUs</Name>
+      <ID>101</ID>
+      <Message>FD021004AAAAAAAA</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Read Diagnostic Addresses</Name>
+      <ID>101</ID>
+      <Message>FE021AB0AAAAAAAA</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Disable Normal Communication</Name>
+      <ID>101</ID>
+      <Message>FE0128AAAAAAAAAA</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Disable Normal Communication Response</Name>
+      <ID>641</ID>
+      <Message>0168</Message>
+      <DLC>2</DLC>
+    </Packet>
+    <Packet>
+      <Name>Disable Normal Communication Response</Name>
+      <ID>64F</ID>
+      <Message>0168</Message>
+      <DLC>2</DLC>
+    </Packet>
+    <Packet>
+      <Name>Tester Present - Response</Name>
+      <ID>642</ID>
+      <Message>017E</Message>
+      <DLC>2</DLC>
+    </Packet>
+    <Packet>
+      <Name>Elevate RPM - Response</Name>
+      <ID>641</ID>
+      <Message>02EE01</Message>
+      <DLC>3</DLC>
+    </Packet>
+    <Packet>
+      <Name>Turn EGR On - Response</Name>
+      <ID>641</ID>
+      <Message>02EE02</Message>
+      <DLC>3</DLC>
+    </Packet>
+    <Packet>
+      <Name>Message Flow Exceeded - Response</Name>
+      <ID>641</ID>
+      <Message>057FAEE30902</Message>
+      <DLC>6</DLC>
+    </Packet>
+    <Packet>
+      <Name>Wake-Up Gateway ECUs - Response</Name>
+      <ID>651</ID>
+      <Message>0150AAAAAAAAAAAA</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Read Diagnostic Addresses - Response</Name>
+      <ID>641</ID>
+      <Message>035AB028AAAAAAAA</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Read Diagnostic Addresses - Response</Name>
+      <ID>64D</ID>
+      <Message>035AB060AAAAAAAA</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Read Diagnostic Addresses - Response</Name>
+      <ID>651</ID>
+      <Message>035AB042AAAAAAAA</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Disable Normal Communication - Response</Name>
+      <ID>641</ID>
+      <Message>0168AAAAAAAAAAAA</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Disable Normal Communication - Response</Name>
+      <ID>64D</ID>
+      <Message>0168AAAAAAAAAAAA</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <Packet>
+      <Name>Disable Normal Communication - Response</Name>
+      <ID>651</ID>
+      <Message>0168AAAAAAAAAAAA</Message>
+      <DLC>8</DLC>
+    </Packet>
+    <ECU>
+      <ID>100</ID>
+      <Name>Wake-Up - Diagnostic</Name>
+    </ECU>
+    <ECU>
+      <ID>101</ID>
+      <Name>AllNode Request - Diagnostic</Name>
+    </ECU>
+    <ECU>
+      <ID>102</ID>
+      <Name>Diagnostic Request - Diagnostic</Name>
+    </ECU>
+    <ECU>
+      <ID>103</ID>
+      <Name>USDT Request - Diagnostic</Name>
+    </ECU>
+    <ECU>
+      <ID>540</ID>
+      <Name>USDT Response - Diagnostic</Name>
+    </ECU>
+    <ECU>
+      <ID>640</ID>
+      <Name>USDT Request - Diagnostic</Name>
+    </ECU>
+    <ECU>
+      <ID>7DF</ID>
+      <Name>Functinally Addressed Request Message from External Test Equipment</Name>
+    </ECU>
+    <ECU>
+      <ID>7E0</ID>
+      <Name>Request from External Test Equipment to OBD ECU #1</Name>
+    </ECU>
+    <ECU>
+      <ID>7E8</ID>
+      <Name>Response from OBD ECU #1 to the External Test Equipment</Name>
+    </ECU>
+    <Packet>
+      <ID>111</ID>
+      <Name>test333</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>10C</ID>
+      <Name>test10C</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+  </CarType>
+  <CarType>
+    <CarName>Test Car 1</CarName>
+    <Packet>
+      <Name>Test 1</Name>
+      <ID>100</ID>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <Name>Test 2</Name>
+      <ID>102</ID>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+      <Count>10</Count>
+      <TimeBetween>1</TimeBetween>
+    </Packet>
+    <Packet>
+      <Name>Test 3</Name>
+      <ID>103</ID>
+      <DLC>8</DLC>
+      <Message>00000000000000FF</Message>
+      <Count>100</Count>
+      <TimeBetween>10</TimeBetween>
+    </Packet>
+    <Packet>
+      <Name>Test 4</Name>
+      <ID>104</ID>
+      <DLC>8</DLC>
+      <Message>000000000000aaFF</Message>
+      <Count>100</Count>
+      <TimeBetween>1000</TimeBetween>
+    </Packet>
+    <ECU>
+      <ID>100</ID>
+      <Name>ECU 100</Name>
+    </ECU>
+    <ECU>
+      <ID>101</ID>
+      <Name>ECU 101</Name>
+    </ECU>
+    <ECU>
+      <ID>102</ID>
+      <Name>ECU 102</Name>
+    </ECU>
+    <ECU>
+      <ID>0BA</ID>
+      <Name>ECU BA</Name>
+    </ECU>
+    <ECU>
+      <ID>0BB</ID>
+      <Name>ECU BB</Name>
+    </ECU>
+    <ECU>
+      <ID>0BC</ID>b
+      <Name>ECU BC</Name></ECU>
+    <Packet>
+      <Name>Toyota - Gas Gauge</Name>
+      <ID>7C0</ID>
+      <Message>04300300[2/Gas]000000</Message>
+    </Packet>
+    <Packet>
+      <Name>Toyota - VIN</Name>
+      <ID>7C1</ID>
+      <Message>05[14/VIN]</Message>
+    </Packet>
+    <Packet>
+      <Name>Toyota - Door Extended ID </Name>
+      <ID>004</ID>
+      <Message>08[14/DoorID]</Message>
+    </Packet>
+    <Packet>
+      <Name>Toyota - Door ID </Name>
+      <ID>456</ID>
+      <Message>07[14/DoorID]</Message>
+    </Packet>
+    <Packet>
+      <ID>111</ID>
+      <Name>mine</Name>
+      <DLC>8</DLC>
+      <Message> BB BB BB BB BB BB BB BB</Message>
+    </Packet>
+    <Packet>
+      <ID>100</ID>
+      <Name>testAB</Name>
+      <DLC>8</DLC>
+      <Message>ABCDEF1234567890</Message>
+    </Packet>
+    <Packet>
+      <ID>100</ID>
+      <Name>azx</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>666</ID>
+      <Name>test66</Name>
+      <DLC>8</DLC>
+      <Message>6666660000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>555</ID>
+      <Name>p555</Name>
+      <DLC>8</DLC>
+      <Message>5500000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>222</ID>
+      <Name>test222</Name>
+      <DLC>8</DLC>
+      <Message>2200000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>777</ID>
+      <Name>test77</Name>
+      <DLC>8</DLC>
+      <Message>7700000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>088</ID>
+      <Name>test88</Name>
+      <DLC>8</DLC>
+      <Message>8800000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>100</ID>
+      <Name>p66</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>066</ID>
+      <Name>test66</Name>
+      <DLC>8</DLC>
+      <Message>6600000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>066</ID>
+      <Name>test66</Name>
+      <DLC>8</DLC>
+      <Message>6600000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>066</ID>
+      <Name>t66</Name>
+      <DLC>8</DLC>
+      <Message>6600000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>101</ID>
+      <Name>test123</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>666</ID>
+      <Name>behdad</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>100</ID>
+      <Name>Behdad</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>100</ID>
+      <Name>Parnian</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>100</ID>
+      <Name>Par</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>100</ID>
+      <Name>test00</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>100</ID>
+      <Name>test22</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>300</ID>
+      <Name>test300</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>300</ID>
+      <Name>test33</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>111</ID>
+      <Name>test112</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>333</ID>
+      <Name>test333</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>555</ID>
+      <Name>test555</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>777</ID>
+      <Name>test777</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>088</ID>
+      <Name>test888</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>123</ID>
+      <Name>test123</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>234</ID>
+      <Name>test234</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>345</ID>
+      <Name>test345</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>789</ID>
+      <Name>test789</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>099</ID>
+      <Name>test99</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>444</ID>
+      <Name>test444</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>199</ID>
+      <Name>test199</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>100</ID>
+      <Name>mytest</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>200</ID>
+      <Name>mytest123</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>300</ID>
+      <Name>mytest300</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>187</ID>
+      <Name>test987</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>457</ID>
+      <Name>test457</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>10F</ID>
+      <Name>test10F</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>10E</ID>
+      <Name>test10E</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>10B</ID>
+      <Name>test10B</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>10D</ID>
+      <Name>lasttest</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>10A</ID>
+      <Name>mypacket</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>104</ID>
+      <Name>test1004</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>testlast</Packet>
+    <Packet>
+      <ID>499</ID>
+      <Name>test499</Name>
+      <DLC>8</DLC>
+      <Message>4990000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>523</ID>
+      <Name>test523</Name>
+      <DLC>8</DLC>
+      <Message>5200000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>223</ID>
+      <Name>223test1</Name>
+      <DLC>8</DLC>
+      <Message>2230000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>244</ID>
+      <Name>test244</Name>
+      <DLC>8</DLC>
+      <Message>2400000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>786</ID>
+      <Name>test786</Name>
+      <DLC>8</DLC>
+      <Message>7800000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>250</ID>
+      <Name>test2501</Name>
+      <DLC>
+      </DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>020</ID>
+      <Name>test12345</Name>
+      <DLC>
+      </DLC>
+      <Message>000007</Message>
+    </Packet>
+  </CarType>
+  <CarType>
+    <CarName>Test Car 2 - wildcards</CarName>
+    <Packet>
+      <Name>Toyota - Gas Gauge</Name>
+      <ID>07C0</ID>
+      <Message>04300300[2/Gas]000000</Message>
+    </Packet>
+    <Packet>
+      <Name>Toyota - VIN</Name>
+      <ID>07C0</ID>
+      <Message>05[7/VIN]</Message>
+    </Packet>
+    <Packet>
+      <Name>Toyota - Door Extended ID </Name>
+      <ID>07[8/DoorID]</ID>
+      <Message>04</Message>
+    </Packet>
+    <Packet>
+      <Name>Toyota - Door ID </Name>
+      <ID>07[2/DoorID]</ID>
+      <Message>04</Message>
+    </Packet>
+    <Packet>
+      <Name>Test 100</Name>
+      <ID>100</ID>
+      <Message>0000000000000000</Message>
+    </Packet>
+    <ECU>
+      <ID>10?</ID>
+      <Name>ECU Test 10?</Name>
+    </ECU>
+    <ECU>
+      <ID>2*</ID>
+      <Name>ECU Test 2*</Name>
+    </ECU>
+    <ECU>
+      <ID>30[A-F]</ID>
+      <Name>ECU Test 30[A-F]</Name>
+    </ECU>
+    <Packet>
+      <ID>049</ID>
+      <Name>yeah</Name>
+      <DLC>8</DLC>
+      <Message>0490000000000000</Message>
+    </Packet>
+  </CarType>
+  <CarType>
+    <CarName>Test Car 0</CarName>
+    <Packet>
+      <Name>Test 1</Name>
+      <ID>100</ID>
+      <DLC>8</DLC>
+      <Message>00000000000003</Message>
+    </Packet>
+    <Packet>
+      <ID>728</ID>
+      <Name>test728</Name>
+      <DLC>8</DLC>
+      <Message>7280000000000000</Message>
+    </Packet>
+    <IFTHEN>
+      <Name>If Then test</Name>
+      <If>
+        <Packet>
+          <Name>testabcd</Name>
+          <ID>091</ID>
+          <DLC>8</DLC>
+          <Message>0910000000000000</Message>
+        </Packet>
+      </If>
+      <Then>
+        <Packet>
+          <Name>test092</Name>
+          <ID>092</ID>
+          <DLC>8</DLC>
+          <Message>0920000000000000</Message>
+        </Packet>
+      </Then>
+    </IFTHEN>
+    <Sequence>
+      <Name>Test Sequence Z</Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>yeah</Name>
+        <ID>049</ID>
+        <DLC>8</DLC>
+        <Message>0490000000000000</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>seq2</Name>
+        <ID>082</ID>
+        <DLC>2</DLC>
+        <Message>0820</Message>
+      </Packet>
+      <Packet>
+        <Number>3</Number>
+        <Name>seq83</Name>
+        <ID>083</ID>
+        <DLC>2</DLC>
+        <Message>0830</Message>
+      </Packet>
+    </Sequence>
+    <Packet>
+      <ID>092</ID>
+      <Name>1</Name>
+      <DLC>8</DLC>
+      <Message>0920000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>081</ID>
+      <Name>OMG81</Name>
+      <DLC>2</DLC>
+      <Message>0810</Message>
+    </Packet>
+    <Packet>
+      <ID>049</ID>
+      <Name>yeah</Name>
+      <DLC>8</DLC>
+      <Message>0490000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>049</ID>
+      <Name>yeah</Name>
+      <DLC>8</DLC>
+      <Message>0490000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>049</ID>
+      <Name>yeah</Name>
+      <DLC>8</DLC>
+      <Message>0490000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>049</ID>
+      <Name>yeah</Name>
+      <DLC>8</DLC>
+      <Message>0490000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>049</ID>
+      <Name>yeah</Name>
+      <DLC>8</DLC>
+      <Message>0490000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>049</ID>
+      <Name>yeah</Name>
+      <DLC>8</DLC>
+      <Message>0490000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>051</ID>
+      <Name>test0051</Name>
+      <DLC>8</DLC>
+      <Message>0510000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>291</ID>
+      <Name>horra</Name>
+      <DLC>8</DLC>
+      <Message>0290000000000000</Message>
+    </Packet>
+    <Packet>
+      <ID>657</ID>
+      <Name>OMG</Name>
+      <DLC>2</DLC>
+      <Message>6570</Message>
+    </Packet>
+    <Packet>
+      <ID>389</ID>
+      <Name>test389</Name>
+      <DLC>2</DLC>
+      <Message>3890</Message>
+    </Packet>
+  </CarType>
+</Cars>

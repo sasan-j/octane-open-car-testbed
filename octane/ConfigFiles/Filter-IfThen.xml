@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <CarType>
+    <CarName>Car XML Extensions Test</CarName>
+    <IFTHEN>
+      <Name>If Then A</Name>
+      <If>
+        <Packet>
+          <Name>Standard Hello 1</Name>
+          <ID>624</ID>
+          <DLC>8</DLC>
+          <Message>0020000000000000</Message>
+        </Packet>
+      </If>
+      <Then>
+        <Packet>
+          <Name>Standard Welcome 1</Name>
+          <ID>626</ID>
+          <DLC>8</DLC>
+          <Message>0066000000000000</Message>
+        </Packet>
+      </Then>
+    </IFTHEN>
+
+    <Packet>
+      <Name>Standard Hello 1</Name>
+      <ID>624</ID>
+      <DLC>8</DLC>
+      <Message>0020000000000000</Message>
+    </Packet>
+
+    <IFTHEN>
+      <Name>If Then B</Name>
+      <If>
+        <Packet>
+          <Name>Standard Hello 2</Name>
+          <ID>620</ID>
+          <DLC>8</DLC>
+          <Message>0020000000000000</Message>
+        </Packet>
+      </If>
+      <Then>
+        <Packet>
+          <Name>Standard Welcome 2</Name>
+          <ID>628</ID>
+          <DLC>8</DLC>
+          <Message>0066000000000000</Message>
+        </Packet>
+      </Then>
+    </IFTHEN>
+
+    <Packet>
+      <Name>Standard Hello 2</Name>
+      <ID>620</ID>
+      <DLC>8</DLC>
+      <Message>0020000000000000</Message>
+    </Packet>
+    
+    <Sequence>
+      <Name>Test Sequence A</Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>Standard Hello 1</Name>
+        <ID>624</ID>
+        <DLC>8</DLC>
+        <Message>0020000000000000</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>Standard Hello 2</Name>
+        <ID>626</ID>
+        <DLC>8</DLC>
+        <Message>0040000000000000</Message>
+      </Packet>
+      <Packet>
+        <Number>3</Number>
+        <Name>Standard Hello 3</Name>
+        <ID>628</ID>
+        <DLC>8</DLC>
+        <Message>0060000000000000</Message>
+      </Packet>
+    </Sequence>
+    <Sequence>
+      <Name>Test Sequence B</Name>
+      <Packet>
+        <Number>1</Number>
+        <Name>Standard Hello 1</Name>
+        <ID>624</ID>
+        <DLC>2</DLC>
+        <Message>0020</Message>
+      </Packet>
+      <Packet>
+        <Number>2</Number>
+        <Name>Standard Hello 2</Name>
+        <ID>624</ID>
+        <DLC>2</DLC>
+        <Message>0020</Message>
+      </Packet>
+      <Packet>
+        <Number>3</Number>
+        <Name>Standard Hello 3</Name>
+        <ID>624</ID>
+        <DLC>2</DLC>
+        <Message>0020</Message>
+      </Packet>
+    </Sequence>
+    <Packet>
+      <Name>Test Packet</Name>
+      <ID>644</ID>
+      <DLC>8</DLC>
+      <Message>0168AAAAAAAAAAAA</Message>
+    </Packet>
+  </CarType>
+ 
+</Cars>

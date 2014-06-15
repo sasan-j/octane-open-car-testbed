@@ -1,0 +1,11 @@
+<Cars>
+  <CarType>
+    <CarName>my test car</CarName>
+    <Packet>
+      <ID>100</ID>
+      <Name>really</Name>
+      <DLC>8</DLC>
+      <Message>0000000000000000</Message>
+    </Packet>
+  </CarType>
+</Cars>

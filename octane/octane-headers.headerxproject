@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HeaderProject Version="2.0.0.0">
+  <Header><![CDATA[/*  ----------------------------------------------------------------------------~ *  Copyright (c) 2012-2013 [COMPANY NAME]~ *  [COMPANY NAME]~ *  ----------------------------------------------------------------------------~ *  Developed by: Christopher E. Everett; Damon McCoy; Parnian Najafi; and Sahar Mazloom~ *  ----------------------------------------------------------------------------~ *  [PRODUCT NAME]~ *  ----------------------------------------------------------------------------~ *  File:       [AUTO:FILE]~ *  Author:     [AUTO:AUTHOR]~ *  ----------------------------------------------------------------------------~ *~ * This program is free software: you can redistribute it and/or modify~ * it under the terms of the GNU General Public License as published by~ * the Free Software Foundation, either version 3 of the License, or~ * (at your option) any later version.~~ *  This program is distributed in the hope that it will be useful,~ *  but WITHOUT ANY WARRANTY; without even the implied warranty of~ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the~ *  GNU General Public License for more details.~~ *  You should have received a copy of the GNU General Public License~ *  along with this program.  If not, see <http://www.gnu.org/licenses/>.~*/~~]]></Header>
+  <Name>OCTANE</Name>
+  <VisualStudioItemLocation>C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\OpenCarTestbed.csproj</VisualStudioItemLocation>
+  <SyncWithVisualStudioItem>false</SyncWithVisualStudioItem>
+  <IgnoreSourceOutSideSolutionRoot>false</IgnoreSourceOutSideSolutionRoot>
+  <MakeReadOnlyWritable>false</MakeReadOnlyWritable>
+  <Directories />
+  <Files>
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\BusLayer\IntrepidCanBus.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\BusLayer\ECOMCanBus.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\BusLayer\KvaserCanBus.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\BusLayer\Lib\icsNeoClass.cs" Include="false" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Common\ErrorLog.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Common\InputTests.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Common\BusData.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\BusLayer\GenericCanBus.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\BusLayer\GenericFlexRayBus.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\BusLayer\GenericLinBus.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Common\XML-Interface.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\BusLayer\Lib\ECOMLibrary.cs" Include="false" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\BusControl.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\BusSettings.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\Configuration.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\LogWindow.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\XMLEditECU.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\XMLEditMessage.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\CustomTransmit.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\TransmitPackets.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\AboutBox1.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Common\CommonUtils.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\BusMonitor-Column.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\MainWindow.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Common\Program.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Properties\AssemblyInfo.cs" Include="true" />
+    <File File="C:\Users\ceveret3\Desktop\AutoLab\octane\trunk\octane\Windows\XMLEdit.cs" Include="true" />
+  </Files>
+  <UserFields>
+    <UserField Name="COMPANY NAME" Value="George Mason University" />
+    <UserField Name="PRODUCT NAME" Value="Open Car Testbed and Network Experiments (OCTANE)" />
+  </UserFields>
+</HeaderProject>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+
+    <CarType>
+      <CarName>Toyota Test - Miller Paper</CarName>
+
+      <Packet>
+        <Name>Speedometer - Idle</Name>
+        <ID>0B4</ID>
+        <DLC>08</DLC>
+        <Message>00000000000000BC</Message>
+      </Packet>
+
+      <Packet>
+        <Name>Speedometer - 10 MPH</Name>
+        <ID>0B4</ID>
+        <DLC>08</DLC>
+        <Message>000000008D0666B5</Message>
+      </Packet>
+
+      <Packet>
+        <Name>Kill Engine</Name>
+        <ID>7E0</ID>
+        <DLC>08</DLC>
+        <Message>06301C000FA50100</Message>
+      </Packet>
+
+      <Packet>
+        <Name>Turn Lights On - in auto mode</Name>
+        <ID>750</ID>
+        <DLC>08</DLC>
+        <Message>4005301500400000</Message>
+      </Packet>
+
+      <Packet>
+        <Name>Turn Lights Off - in auto mode</Name>
+        <ID>750</ID>
+        <DLC>08</DLC>
+        <Message>4005301500000000</Message>
+      </Packet>
+
+      <Packet>
+        <Name>Horn On</Name>
+        <ID>750</ID>
+        <DLC>08</DLC>
+        <Message>4004300600200000</Message>
+      </Packet>
+
+      <Packet>
+        <Name>Horn Off</Name>
+        <ID>750</ID>
+        <DLC>08</DLC>
+        <Message>40043006000000</Message>
+      </Packet>
+
+      <Packet>
+        <Name>Lock all doors</Name>
+        <ID>750</ID>
+        <DLC>08</DLC>
+        <Message>4005301100800000</Message>
+      </Packet>
+
+      <Packet>
+        <Name>unlock all doors</Name>
+        <ID>750</ID>
+        <DLC>08</DLC>
+        <Message>4005301100400000</Message>
+      </Packet>
+
+      <Packet>
+        <Name>Fuel Empty and Beep</Name>
+        <ID>7C0</ID>
+        <DLC>08</DLC>
+        <Message>0430030001000000</Message>
+      </Packet>
+
+    </CarType>
+
+
+  
+</Cars>
