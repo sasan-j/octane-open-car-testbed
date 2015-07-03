@@ -1,0 +1,1 @@
+OCTANE is an automotive security testbed that will facilitate the analysis, understanding, and testing of automotive cyber-physical systems. OCTANE enables researchers and students to rapidly begin to explore automotive cyber physical systems by providing a platform for reverse engineering and testing through real-world experimentation of a lab network setup or an automobile.
